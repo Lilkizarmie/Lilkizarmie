@@ -50,10 +50,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.codeverse.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.codeverse.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.codeverse.tech-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jeffery-adolor-o4ob5b11b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/lilkizarmie/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jefferyadolor18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/Lilkizarmie)
+⭐️ From [Lilkizarmie](https://github.com/Lilkizarmie)
