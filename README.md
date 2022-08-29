@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Digital Marketing and Blockchain Development.
 - ✍️ &nbsp; Pursuing Digital Marketing and Blog Writing as hobbies/side hustles.
 
-<p align="left"> <a href="https://twitter.com/devkizarmie" target="blank"><img src="https://img.shields.io/twitter/follow/devkizarmie?logo=twitter&style=for-the-badge" alt="devkizarmie" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilkizarmie" alt="lilkizarmie" /></a> </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
