@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University of The People.
-- 💼 &nbsp; Working as a Lead Front End Developer.
+- 💼 &nbsp; Working as a Software Engineer
 - 🌱 &nbsp; Learning more about Cloud Architecture, Digital Marketing and Blockchain Development.
 - ✍️ &nbsp; Pursuing Digital Marketing and Blog Writing as hobbies/side hustles.
 
